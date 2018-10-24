@@ -23,6 +23,11 @@
   		<artifactId>cohort-business</artifactId>
   		<version>${project.version}</version>
   	</dependency>
+      <dependency>
+  		<groupId>TRAORE Ibrahima</groupId>
+  		<artifactId>cohort-business</artifactId>
+  		<version>${project.version}</version>
+  	</dependency>
   	
 	<dependency>
   		<groupId>sn.edacy</groupId>
