@@ -19,6 +19,9 @@ public class CreateController {
     /**
      * Create a new cohort
      */
+    /**
+     * TRAORE Ibrahima
+     */
     public String create() {
         talentService.saveCohort(newCohort);
     		return "/index";
